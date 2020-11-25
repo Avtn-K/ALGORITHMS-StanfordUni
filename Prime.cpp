@@ -4,7 +4,11 @@
 
 using namespace std;
 
-// List of Prime Numbers.
+// List of Prime Numbers to the given boundary.
+// Bi-Prime Numbers are natural numbers which are product of exactly two prime numbers. 
+// Bubble sort is implemented.
+// This is the most trivial way of finding Prime Numbers.
+
 
 
 vector<int>Sort(vector<int>XY)

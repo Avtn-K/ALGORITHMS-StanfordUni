@@ -79,7 +79,7 @@ void MergeSort(int XY[], int l, int h)
 
 int main()
 {	
-   ifstream List("num.txt");
+   ifstream List("Mnum.txt");
    if(!List)
      {
        cout<< "File error!" <<endl;
